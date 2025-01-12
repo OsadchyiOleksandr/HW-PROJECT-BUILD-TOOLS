@@ -16,8 +16,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>workshop</groupId>
-            <artifactId>MyTools</artifactId>
+            <groupId>org.passwordgenerator</groupId>
+            <artifactId>passwordgenerator</artifactId>
             <version>1.0</version>
         </dependency>
     </dependencies>

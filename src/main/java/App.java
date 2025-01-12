@@ -1,4 +1,4 @@
-import workshop.PasswordGenerator;
+import org.passwordgenerator.PasswordGenerator;
 
 public class App {
     public static void main(String[] args) {
